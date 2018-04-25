@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Zajęcia_1.2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Program_3.cpp
+c:\c++ programy\grafika_sem4\zajęcia_1\zajęcia_1.2\program_3.cpp(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\c++ programy\grafika_sem4\zajęcia_1\zajęcia_1.2\program_3.cpp(62): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\c++ programy\grafika_sem4\zajęcia_1\zajęcia_1.2\program_3.cpp(63): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Zajęcia_1.2.vcxproj -> C:\C++ Programy\Grafika_Sem4\Zajęcia_1\Debug\Zajęcia_1.3.exe
+  Zajęcia_1.2.vcxproj -> C:\C++ Programy\Grafika_Sem4\Zajęcia_1\Debug\Zajęcia_1.3.pdb (Partial PDB)

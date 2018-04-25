@@ -1,0 +1,6 @@
+﻿  Program_4.cpp
+c:\c++ programy\grafika_sem4\zajęcia_1\zajęcia_1.4\program_4.cpp(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\c++ programy\grafika_sem4\zajęcia_1\zajęcia_1.4\program_4.cpp(69): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\c++ programy\grafika_sem4\zajęcia_1\zajęcia_1.4\program_4.cpp(70): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Zajęcia_1.4.vcxproj -> C:\C++ Programy\Grafika_Sem4\Zajęcia_1\Debug\Zajęcia_1.4.exe
+  Zajęcia_1.4.vcxproj -> C:\C++ Programy\Grafika_Sem4\Zajęcia_1\Debug\Zajęcia_1.4.pdb (Partial PDB)
