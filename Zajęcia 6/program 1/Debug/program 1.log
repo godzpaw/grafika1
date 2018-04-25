@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  program 1.cpp
+i:\grafika\zajęcia 6 program 1\program 1\program 1.cpp(244): warning C4305: "+=": obcięcie z "double" do "GLfloat"
+i:\grafika\zajęcia 6 program 1\program 1\program 1.cpp(249): warning C4305: "-=": obcięcie z "double" do "GLfloat"
+i:\grafika\zajęcia 6 program 1\program 1\program 1.cpp(310): warning C4244: "+=": konwersja z "double" do "GLfloat", możliwa utrata danych
+i:\grafika\zajęcia 6 program 1\program 1\program 1.cpp(312): warning C4244: "+=": konwersja z "double" do "GLfloat", możliwa utrata danych
+  program 1.vcxproj -> I:\Grafika\Zajęcia 6 Program 1\Debug\program 1.exe
