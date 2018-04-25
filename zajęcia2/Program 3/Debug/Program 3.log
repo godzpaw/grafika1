@@ -1,0 +1,5 @@
+﻿  Program_3.cpp
+c:\c++ programy\grafika_sem4\zajęcia_2\program 3\program_3.cpp(131): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\c++ programy\grafika_sem4\zajęcia_2\program 3\program_3.cpp(133): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  Program 3.vcxproj -> C:\C++ Programy\Grafika_Sem4\Zajęcia_2\Debug\Zajęcia_2.3.exe
+  Program 3.vcxproj -> C:\C++ Programy\Grafika_Sem4\Zajęcia_2\Debug\Zajęcia_2.3.pdb (Partial PDB)

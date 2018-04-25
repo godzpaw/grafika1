@@ -1,0 +1,13 @@
+﻿  Program_2.cpp
+c:\c++ programy\grafika_sem4\zajęcia_2\zajęcia_2.2\program_2.cpp(64): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\c++ programy\grafika_sem4\zajęcia_2\zajęcia_2.2\program_2.cpp(67): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\c++ programy\grafika_sem4\zajęcia_2\zajęcia_2.2\program_2.cpp(68): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\c++ programy\grafika_sem4\zajęcia_2\zajęcia_2.2\program_2.cpp(86): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\c++ programy\grafika_sem4\zajęcia_2\zajęcia_2.2\program_2.cpp(89): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\c++ programy\grafika_sem4\zajęcia_2\zajęcia_2.2\program_2.cpp(90): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\c++ programy\grafika_sem4\zajęcia_2\zajęcia_2.2\program_2.cpp(165): warning C4566: character represented by universal-character-name '\u2010' cannot be represented in the current code page (1250)
+c:\c++ programy\grafika_sem4\zajęcia_2\zajęcia_2.2\program_2.cpp(171): warning C4566: character represented by universal-character-name '\u2010' cannot be represented in the current code page (1250)
+c:\c++ programy\grafika_sem4\zajęcia_2\zajęcia_2.2\program_2.cpp(177): warning C4566: character represented by universal-character-name '\u2010' cannot be represented in the current code page (1250)
+c:\c++ programy\grafika_sem4\zajęcia_2\zajęcia_2.2\program_2.cpp(183): warning C4566: character represented by universal-character-name '\u2010' cannot be represented in the current code page (1250)
+  Zajęcia_2.2.vcxproj -> C:\C++ Programy\Grafika_Sem4\Zajęcia_2\Debug\Zajęcia_2.2.exe
+  Zajęcia_2.2.vcxproj -> C:\C++ Programy\Grafika_Sem4\Zajęcia_2\Debug\Zajęcia_2.2.pdb (Partial PDB)
