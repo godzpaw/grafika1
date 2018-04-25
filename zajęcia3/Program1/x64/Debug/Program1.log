@@ -1,0 +1,13 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Program1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Program_1.cpp
+c:\c++ programy\grafika_sem4\zajecia_3\program1\program_1.cpp(43): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\c++ programy\grafika_sem4\zajecia_3\program1\program_1.cpp(148): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\c++ programy\grafika_sem4\zajecia_3\program1\program_1.cpp(153): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\c++ programy\grafika_sem4\zajecia_3\program1\program_1.cpp(214): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\c++ programy\grafika_sem4\zajecia_3\program1\program_1.cpp(216): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\c++ programy\grafika_sem4\zajecia_3\program1\program_1.cpp(218): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\c++ programy\grafika_sem4\zajecia_3\program1\program_1.cpp(220): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\c++ programy\grafika_sem4\zajecia_3\program1\program_1.cpp(370): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\c++ programy\grafika_sem4\zajecia_3\program1\program_1.cpp(374): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+  Program1.vcxproj -> C:\C++ Programy\Grafika_Sem4\Zajecia_3\x64\Debug\Zajęcia_3.1.exe
+  Program1.vcxproj -> C:\C++ Programy\Grafika_Sem4\Zajecia_3\x64\Debug\Zajęcia_3.1.pdb (Partial PDB)
