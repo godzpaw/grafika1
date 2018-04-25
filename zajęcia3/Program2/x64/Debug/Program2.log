@@ -1,0 +1,15 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Program2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Program_2.cpp
+c:\c++ programy\grafika_sem4\zajecia_3\program2\program_2.cpp(107): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\c++ programy\grafika_sem4\zajecia_3\program2\program_2.cpp(112): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\c++ programy\grafika_sem4\zajecia_3\program2\program_2.cpp(123): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\c++ programy\grafika_sem4\zajecia_3\program2\program_2.cpp(127): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\c++ programy\grafika_sem4\zajecia_3\program2\program_2.cpp(215): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\c++ programy\grafika_sem4\zajecia_3\program2\program_2.cpp(217): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\c++ programy\grafika_sem4\zajecia_3\program2\program_2.cpp(219): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\c++ programy\grafika_sem4\zajecia_3\program2\program_2.cpp(221): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  Textures.cpp
+  Program2.vcxproj -> C:\C++ Programy\Grafika_Sem4\Zajecia_3\x64\Debug\Zajęcia_3.2.exe
+  Program2.vcxproj -> C:\C++ Programy\Grafika_Sem4\Zajecia_3\x64\Debug\Zajęcia_3.2.pdb (Partial PDB)
